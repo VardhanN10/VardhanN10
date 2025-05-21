@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FPGA Design, VHDL , QT/QML**
 
-- 💬 Ask me about **C++, embedded programming, STM32, ESP32, Silicon Labs boards**
+- 💬 Ask me about **C++, Embedded programming, RTOS**
 
 - 📫 How to reach me **kasula.saivardhan.tech@gmail.com**
 
